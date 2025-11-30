@@ -8,7 +8,7 @@ Estado	Significado	Acción
 🟡 Amarillo	Sin rostros detectados	Modo espera
 🟢 Verde	Usuario reconocido	Acceso permitido
 🔴 Rojo	Usuario desconocido	Acceso denegado
-🧠 Tecnologías utilizadas
+🧠 Tecnologías utilizadas:
 
 Python
 

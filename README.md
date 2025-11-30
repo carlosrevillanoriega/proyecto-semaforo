@@ -68,3 +68,5 @@ Estudiante de Ingeniería en Sistemas — Enfoque en Ciberseguridad e IA
 🌐 Redes
 
 GitHub: https://github.com/carlosrevillanoriega
+Linkedin: https://www.linkedin.com/in/revilla-noriega-carlos
+
